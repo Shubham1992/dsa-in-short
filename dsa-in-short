@@ -1,0 +1,2 @@
+1. Count Sum of pairs where arrya is sorted and elements can repeat - 
+    Two pointers and/or hashmap, to select 2 elements from 'x' number  elements use nc2 which is x(x-1)/2

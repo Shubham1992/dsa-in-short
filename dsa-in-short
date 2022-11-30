@@ -1,2 +1,8 @@
 1. Count Sum of pairs where arrya is sorted and elements can repeat - 
     Two pointers and/or hashmap, to select 2 elements from 'x' number  elements use nc2 which is x(x-1)/2
+2. Linked list find cycle
+    take slow fast pointer, when pointers meet at X, then from X go to next using pointer P and from head go to next using pointer H, 
+    the point where P and H meet is the cycle start
+    Linked List questions are best done if you draw it on paper first. complexity is mostly O(n)
+
+

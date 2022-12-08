@@ -9,3 +9,13 @@
 
 
 
+3. Longest paliandromic substring - for each element - take two pointers and spread out those pointers from middle to left and right
+     till the characters at  pointers match
+
+4. Linked list reverse
+
+5. Link list find intersection - first for a cycle from last point of link list, then solve it like the cyclic LL question
+
+6. sum of two elements should be equal to B - two pointers from left and right in sorted array, or use hashmap and do not need sorted array then
+
+

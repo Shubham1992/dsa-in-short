@@ -30,7 +30,11 @@
 
 12. Tree traversal - use recursion or iteratevly use stack
 
-13. Create tree from inorder and postorder - use recursion (hard)
+13. Create tree from inorder and postorder - use recursion (medium)
+
+14. k-smaller elements - heap
+
+15. K-distance away sort - heap
 
 
 
